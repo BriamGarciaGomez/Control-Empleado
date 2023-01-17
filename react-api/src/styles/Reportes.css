@@ -1,0 +1,90 @@
+.reporte-titulo {
+    color: white;
+    text-align: center;
+    background-color: rgb(19, 145, 67);
+    padding: auto;
+    padding-top: 2px;
+    border-radius: 20px;
+
+}
+
+.div-Reporte {
+display: grid;
+grid-template-rows: 200px 200px ;
+grid-template-columns: 2fr 2fr 2fr 2fr  ;
+grid-gap: 10px;
+padding-top: 10px;
+}
+
+.reporte-puesto {
+    text-align: center;
+    border-radius: 20px;
+    display: block;
+    border: 2px solid black;
+}
+
+.imagen {
+  width: 250px;
+  height: 170px;
+}
+
+.reporte-tienda {
+    background-color: aqua;
+    border: 1px;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 35px;
+}
+
+.reporte-empleado {
+    background-color: aqua;
+    border: 1px;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 35px;
+}
+
+.reporte-logro {
+    background-color: aqua;
+    border: 1px;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 35px;
+}
+
+.reporte-falta {
+    background-color: aqua;
+    border: 1px;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 35px;
+}
+
+.reporte-logrosempleado {
+    background-color: aqua;
+    border: 1px;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 35px;
+}
+
+.reporte-faltasempleado {
+    background-color: aqua;
+    border: 1px;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 35px;
+}
+
+.pie{
+    
+    border-radius: 20px;
+    padding-left: 50px;
+    border: 2px;
+    border-color: black;
+}
+
+.enlace {
+    background-color: yellow;
+    
+}

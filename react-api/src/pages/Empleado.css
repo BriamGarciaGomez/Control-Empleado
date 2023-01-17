@@ -1,0 +1,11 @@
+input {
+ display: none;
+}
+
+.upload {
+    height: 25px;
+    width: 30px;
+    background-color: rgb(75, 75, 75);
+    text-align: center;
+    border-radius: 25px;
+}

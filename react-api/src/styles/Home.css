@@ -1,0 +1,30 @@
+
+.producto img {
+    width: 220px;
+    height: 280;
+}
+
+.producto {
+    
+    margin: 25px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.producto p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: coral;
+    text-decoration: none;
+
+}
+

@@ -1,0 +1,121 @@
+.titulo {
+    
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    margin: 30px;
+    font-size: 30px;
+
+}
+
+.producto img {
+    width: 220px;
+    height: 280;
+}
+
+.catalogo {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.producto {
+    
+    margin: 25px;
+}
+
+.caja1 {
+
+}
+
+.caja2 {
+  
+}
+
+.caja3 {
+   
+}
+
+.caja4 {
+   
+}
+
+.caja5 {
+   
+}
+
+.caja6 {
+   
+}
+
+.caja7 {
+   
+}
+
+.caja8 {
+   
+}
+
+.caja9 {
+   
+}
+
+.caja10 {
+   
+}
+
+.caja11 {
+   
+}
+
+.caja12 {
+    
+}
+
+.caja13 {
+    
+}
+
+.caja14 {
+         
+}
+
+.caja15 {
+    
+}
+
+.caja16 {
+    
+}
+
+.caja17 {
+    
+}
+
+.caja18 {
+   
+}
+
+.caja19 {
+   
+}
+
+.caja20 {
+   
+}
+
+.caja21 {
+       
+}
+
+img {
+    border-radius: 20px;
+}
+
+.producto p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
